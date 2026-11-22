@@ -17,3 +17,18 @@
 - https://github.com/longbridge/gpui-kit
 - https://github.com/gpui-ce/gpui-ce
 - https://github.com/zed-industries/zed/tree/v1.27.0/crates/gpui
+
+
+- A fast, hybrid immediate and retained mode, GPU-accelerated UI framework for Rust.
+
+---
+
+- https://nsh.dev/versions/main/elements/list/
+
+`<View style={object} class="string" classList={object}>`
+`<Text>{text}</Text>`
+`<If when={expression}>`
+`<Each of={array}>`
+`<List each={array}>`
+`<Link href="string">`
+`<Image src={source} />`
